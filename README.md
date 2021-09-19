@@ -1,22 +1,22 @@
-### Hi there, I'm Prince Singh👋
+### Hi there, I'm Aditya Kanodia👋
 
 
 
 ## Currently an Undergrad Student!!
 
 - 🔭 I am Currently on a ISL translation Project!!
-- 💬 Talk to me about philosophy, history and coding
+- 💬 Talk to me about philosophy, history,coding and science
 - 😄 Pronouns: He/His/Him
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I prefer Python
+- ⚡ Fun fact: I prefer Python and Java
 
 
 
 ### Connect with me:
 
-[<img align="left" alt="Prince Singh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="_Prince_Singh | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />][hackerrank]
+[<img align="left" alt="aditya kanodia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
+
 
 <br />
 
@@ -51,9 +51,9 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  ![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=princesinghr1)]
+  ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityak55)]
 
 </details>
 
-[linkedin]: https://www.linkedin.com/in/prince-singh-2749a5172/
-[hackerrank]: https://www.hackerrank.com/_Prince_Singh
+[linkedin]: https://www.linkedin.com/in/aditya-kanodia-755669131/
+
